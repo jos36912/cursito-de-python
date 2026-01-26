@@ -1,0 +1,21 @@
+OPERADORES ARITMETICOS: a=5; b=10
+
+Operador             Descripcion               Ejemplo
+
+
+    +                   suma                   a + b=15
+
+    -                   resta                  b - a=5
+
+    *           multiplicacion o producto      a * b=50
+
+    /                   division               b / a=2
+
+    %         modulo-devuelve el resto de      b % a=0
+                      la division
+    **        exponente-realiza exponencial   b ** a=100000
+
+    //          division baja-devuelve el 
+                  entero de la division
+
+
