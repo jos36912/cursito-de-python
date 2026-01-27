@@ -9,9 +9,9 @@
 
 
 "tipo de dato = numero"
-4 " este es un tipo de dato Numero entero INT"
+# 4 " este es un tipo de dato Numero entero INT"
 
-4.4 " este es un tipo de dato Numero flotante FLOAT"
+# 4.4 " este es un tipo de dato Numero flotante FLOAT"
 
 "BOOL, Valores booleanos: True o False"
 True 
