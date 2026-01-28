@@ -11,5 +11,5 @@ bienvenido = "hola" + "como estas?"
 bienvenido = f"hola {nombre_completo} como estas?"
 
 #operadores de pertenencia (in / not in)
-print("jeyson" in bienvenido)
-print("jeyson" not in bienvenido) 
+print("jeyson" in bienvenido) # devuelve True
+print("jeyson" not in bienvenido) # devuelve False

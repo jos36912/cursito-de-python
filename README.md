@@ -1,26 +1,40 @@
-# Mi Viaje de Aprendizaje en Python
+# Cursito de Python
 
-¡Bienvenido a mi repositorio! Este proyecto es mi bitácora personal mientras aprendo a programar en Python. Aquí documento mi progreso, los conceptos que estoy explorando y los ejercicios que voy realizando.
+Repositorio personal de estudio para aprender Python desde cero, siguiendo un enfoque progresivo y práctico.
 
-## Mi Progreso
+El objetivo de este repositorio es consolidar fundamentos del lenguaje mediante ejercicios simples y código claro, priorizando la comprensión sobre la complejidad innecesaria.
 
-Actualmente, estoy enfocado en los siguientes temas:
+## Contenido
 
-*   **Tipos de Datos:** Comprendiendo los datos simples (enteros, flotantes, cadenas, booleanos) y compuestos (listas, tuplas, conjuntos, diccionarios).
-*   **Operadores:** Explorando los operadores aritméticos, de comparación y lógicos.
-*   **Variables:** Aprendiendo a declarar y utilizar variables para almacenar y manipular datos.
+El repositorio está organizado por temas:
 
-## Estructura del Repositorio
+- `variables/`  
+  Uso básico de variables y asignación de valores.
 
-El proyecto está organizado de la siguiente manera:
+- `tipos_de_datos/`  
+  Tipos de datos simples y compuestos.
 
-*   `holamundo.py`: Mi primer programa en Python, ¡el clásico "Hola Mundo"!
-*   `variables/`: Ejemplos sobre la declaración y uso de variables.
-*   `tipos de datos/`: Scripts que muestran los diferentes tipos de datos en Python.
-*   `operadores/`: Ejemplos prácticos de los operadores de Python.
+- `operadores/`  
+  Operadores aritméticos y de comparación.
 
-## Mi Meta
+- `condicionales/`  
+  Estructuras `if`, `elif` y `else`.
 
-La finalidad de este repositorio es tener un registro tangible de mi curva de aprendizaje. Si tienes alguna sugerencia o corrección, ¡no dudes en contactarme!
+Cada carpeta contiene ejemplos y pequeños ejercicios relacionados con el tema.
 
-Gracias por visitar mi repositorio.
+## Ejecución
+
+Los archivos pueden ejecutarse directamente con Python:
+
+```bash
+python nombre_del_archivo.py
+
+
+## Estado del proyecto
+**En progreso.**
+
+### Este repositorio se actualiza conforme avanzo en el aprendizaje del lenguaje.
+
+##Notas
+**El código prioriza claridad y simplicidad.**
+**No se siguen aún convenciones avanzadas ni estructuras complejas.**

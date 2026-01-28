@@ -4,7 +4,7 @@ resta = 12 - 5
 
 # multiplicacion y division (* y /)
 multiplicacion = 12 * 5
-division = 12 / 5
+division = 12 / 5 # devuekve un dato flotante (Float)
 
 # potenciacion (exponente) (**)
 exponente = 12 ** 5
@@ -20,7 +20,7 @@ tipo_de_dato = type("ejemplo de dato = string")
 print(tipo_de_dato)
 
 
-#print(suma)
+#print(suma) 
 
 #print(resta)
 

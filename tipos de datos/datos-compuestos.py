@@ -18,7 +18,7 @@ conjunto = {"jeyson jarquin", "soy jeyson", True, 1.70}
 
 # print(conjunto [2]) #--> no puede acceder al elemento
 
-# creando un diccionario (dict) (la estructura es key : value y sepramos con comas)
+# creando un diccionario (dict) (la estructura es key : value y sepramos con comas) estilo json
 diccionario = {
     'nombre' : "jeyson jarquin",
     'edad' : "19",
