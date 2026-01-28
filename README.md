@@ -22,18 +22,19 @@ El repositorio está organizado por temas:
 
 Cada carpeta contiene ejemplos y pequeños ejercicios relacionados con el tema.
 
+
+## Estado del proyecto
+**En progreso.**
+
+### Este repositorio se actualiza conforme avanzo en el aprendizaje del lenguaje.
+
+##Notas
+- El código prioriza claridad y simplicidad.
+- No se siguen aún convenciones avanzadas ni estructuras complejas.
+
 ## Ejecución
 
 Los archivos pueden ejecutarse directamente con Python:
 
 ```bash
 python nombre_del_archivo.py
-
-## Estado del proyecto
-En progreso.
-
-### Este repositorio se actualiza conforme avanzo en el aprendizaje del lenguaje.
-
-##Notas
-El código prioriza claridad y simplicidad.
-No se siguen aún convenciones avanzadas ni estructuras complejas.
