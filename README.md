@@ -29,12 +29,11 @@ Los archivos pueden ejecutarse directamente con Python:
 ```bash
 python nombre_del_archivo.py
 
-
 ## Estado del proyecto
-**En progreso.**
+En progreso.
 
 ### Este repositorio se actualiza conforme avanzo en el aprendizaje del lenguaje.
 
 ##Notas
-**El código prioriza claridad y simplicidad.**
-**No se siguen aún convenciones avanzadas ni estructuras complejas.**
+El código prioriza claridad y simplicidad.
+No se siguen aún convenciones avanzadas ni estructuras complejas.
