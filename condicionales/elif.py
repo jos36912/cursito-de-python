@@ -1,7 +1,7 @@
 # para este ejemplo usamos dolares
 
 
-ingreso_mensual = 80000
+ingreso_mensual = 92000
 gasto_mensual = 80000
 
 # if anidados y else if (elif)
