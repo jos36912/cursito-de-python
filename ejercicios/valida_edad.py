@@ -1,12 +1,16 @@
-entrada = input("Cual es tu edad?: ").strip()
+entrada = 0
 
-if entrada.isdigit():
-    edad = int(entrada)
-    if edad >= 18:
-        print()
-        print("eres mayor de edad")
+while True:
+    entrada = input("\nIngresa 'salir' para salir del programa.\nCual es tu edad?: ").strip()
+    if entrada.lower() == "salir":
+        print("\nSaliendo...")
+        break
+    if entrada.isdigit():
+        entrada = int(entrada)
+        if entrada >= 18:
+            print(f"\nTienes {entrada} años, Eres mayor de edad")
+        else:
+            print(f"\nTienes {entrada} años, Eres menor de edad")
     else:
-        print()
-        print("eres menor de edad")
-else:
-    print("Por favor, ingresa solo números.")
+        print("Por favor, ingresa solo números.")
+        break
