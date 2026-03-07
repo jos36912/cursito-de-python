@@ -1,7 +1,9 @@
 # Cursito de Python
 
 ![preview](public/python.jpg)
-link: https://www.youtube.com/watch?v=nKPbfIU442g **Curso con una guia amplia sobre python**
+
+link: https://www.youtube.com/watch?v=nKPbfIU442g 
+**Curso con una guia amplia sobre python**
 
 Repositorio personal de estudio para aprender Python desde cero, siguiendo un enfoque progresivo y práctico.
 
