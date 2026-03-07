@@ -1,3 +1,4 @@
+# juego piedra papel o tijera
 import random
 
 bot = ""
