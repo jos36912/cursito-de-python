@@ -1,5 +1,4 @@
 import random
-import sys
 
 bot = ""
 user = ""
@@ -19,30 +18,26 @@ while True:
     
     if user == "salir":
         print("\nSaliendo...")
+        print(f"\n_-PUNTUACION:-_\nPuntos del usuario: {puntos_usuario}\nPuntos del bot: {puntos_bot}\nRondas: {rondas}\n") 
         break
     elif user not in opciones:
         print("\n==|||--> OPCION INVALIDA <--|||==")
         print()
-        print("-vuelve a ingresar una opcion valida\n-saliendo...")
-        break
+        print("\nELIGE UNA OPCION VALIDA")
+        continue
         
     bot = random.choice(opciones)
     if bot == user:
         print(f"\nEmpate: Bot {bot} | Tu {user}")
-        puntos_usuario = 0
-        puntos_bot = 0
-        rondas += 1
     
     elif reglas[bot] == user:
         print(f"\nperdistes: Bot {bot} | Tu {user}")
-        puntos_usuario = 0
         puntos_bot += 10
-        rondas += 1
     else:
         print(f"\nGanaste: Tu {user} | Bot {bot}")
         puntos_usuario += 10
-        puntos_bot = 0
-        rondas += 1
+        
+    rondas += 1
     
     print(f"\n>>>Resultados:<<<\nPuntos del usuario: {puntos_usuario}\nPuntos del bot: {puntos_bot}\nRondas: {rondas}")
     
