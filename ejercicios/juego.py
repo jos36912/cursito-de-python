@@ -1,4 +1,4 @@
-# juego piedra papel o tijera
+# juego piedra papel o tijera :v 
 import random
 
 bot = ""

@@ -1,5 +1,8 @@
 # Cursito de Python
 
+![preview](public/python.jpg)
+link: https://www.youtube.com/watch?v=nKPbfIU442g **Curso con una guia amplia sobre python**
+
 Repositorio personal de estudio para aprender Python desde cero, siguiendo un enfoque progresivo y práctico.
 
 El objetivo de este repositorio es consolidar fundamentos del lenguaje mediante ejercicios simples y código claro, priorizando la comprensión sobre la complejidad innecesaria.
