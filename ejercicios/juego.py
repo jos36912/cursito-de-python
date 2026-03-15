@@ -41,5 +41,3 @@ while True:
     rondas += 1
     
     print(f"\n>>>Resultados:<<<\nPuntos del usuario: {puntos_usuario}\nPuntos del bot: {puntos_bot}\nRondas: {rondas}")
-    
-    
